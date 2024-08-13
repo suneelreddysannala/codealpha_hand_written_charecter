@@ -1,0 +1,1 @@
+This is a machine learning model where it is used to find the hand written charecter from the image and it uses the many libraries and try to run it on the google collab may be your pc can't handle the computation.
